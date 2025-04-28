@@ -1,0 +1,26 @@
+1- Mở Slide (Đồ án thực tập ........, Nhóm có ......), 
+2- Mở Page Azenda (Qua về dự án, Tài liệu, SRS, Detail Design ........)  - Mở qua và nói qua về tài liệu: 1-2p // Tổng quát
+3- Trinh bày về dự án trên cái slide làm. Mô hình hóa
+4- Demo trên web - Bằng chứng (Làm)
+
+Mở sẵn Project, Document và Tab cần thiết.
+Giới thiệu toàn bộ chức năng của Admin + Slide (Nguyễn Trung Du)
+
+Demo:
+
+Login -> Sign (Admin) b2 + b3 (admin làm gì rồi) - > Giới thiệu Dardboard -> Request Managerment -> Office -> Department 
+-> Account (Thêm, Sửa, xóa, Lọc, Inactive/Active, Lấy được 1 cái chức năng Send Email, Đăng nhập khi changePass (Kéo của số mail check email gửi đến hệ thống qua mail. Thêm cửa sổ để check Login), Tạo mới. Check Availble Của password). 
+Account Email là Account Email của Tiến. (**Hữu Tiến**)
+
+
+Employee -> Show DardBoard + chân ngoài tạo Booking mới có liên quan tới accountd Đang Demo sẽ có thông báo -> Show All Tính năng thông báo.
+Profile + Change PassWord
+Demo Bookings -> Chọn khung giờ Overlap mục đích show ra Error -> Tạo trường hợp Success (Only, Daily, Weekly).
+Requests -> Tạo 1-2 Loại Request SHow mọi thứ e có -> (All Chức năng Add, Edit Delete, Search, Demo cả Cancelled Request) (Phạm Nhật Minh)
+
+
+Supervisor -> Demo Approve Request, Rejected Request -> Account Managerment -> Department của Supervisor (Phạm Minh Hảo) (Add của Minh).
+
+Khánh:
+- Demo Thêm thông báo tùy :3)
+- Employee Account nói 1 số trên DasdBoard Show những cái liên quan tới thông báo, Demo tới booking
